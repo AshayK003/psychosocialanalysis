@@ -67,5 +67,5 @@ pip install pandas numpy matplotlib seaborn wordcloud
     ```
 3. Run the Jupyter Notebook to see the data cleaning and visualizations:
     ```bash
-    jupyter notebook visualizations.ipynb
+    jupyter notebook Psychosocial Health analysis final.ipynb
     ```
